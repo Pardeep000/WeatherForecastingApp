@@ -1,0 +1,13 @@
+.bgContainer {
+  position: absolute;
+  z-index: -1;
+  top: 0%;
+  left: 0%;
+  min-width: 100%;
+  min-height: 100%;
+  text-align: center;
+}
+.bgContainer img {
+  width: 100%;
+  hieght: 100%;
+}

@@ -1,0 +1,38 @@
+.mainCardContainer {
+  background-color: orange;
+  width: 30vw;
+}
+.cardSection1 {
+  display: flex;
+  justify-content: space-around;
+  /* margin-top: 0; */
+  margin-bottom: -5vh;
+  /* background-color: orange; */
+}
+.cardSection2 {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  /* background-color: orange; */
+}
+.cardSection2 temp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.buttonSection {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  width: 90%;
+}
+
+.buttons {
+  width: 20px;
+  margin-right: 20px;
+}
+.buttons2 {
+  width: 20px;
+  margin-left: 10px;
+}

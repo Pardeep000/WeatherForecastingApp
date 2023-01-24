@@ -1,0 +1,36 @@
+.mainFore {
+  /* background-color: orange; */
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-width: 80%;
+  margin: auto;
+  margin-top: 15%;
+}
+.leftSection {
+  background-color: grey;
+  width: 30%;
+  margin: auto;
+}
+
+.rightSection {
+  /* background-color: aqua; */
+  display: flex;
+  /* justify-content */
+  width: 30%;
+  margin: auto;
+}
+.rightSection button {
+  font-weight: bold;
+  font-size: 25px;
+  width: 12vw;
+  height: 5vh;
+  margin: 0px 15px;
+  /* border: 1px solid black; */
+  border: none;
+  border-radius: 25px;
+  cursor: pointer;
+  color: white;
+  /* background-color: #3075b7; */
+  background-color: rgba(59, 165, 255, 0.5);
+}
